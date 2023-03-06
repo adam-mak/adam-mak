@@ -10,7 +10,7 @@ I'm a **software** and **biomedical** engineering student at **McMaster** with a
 
 ### 🔭 Currently, I'm ...
 - Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems from Windows computers to be compatible with Android tablets.
-- ~~Looking for Summer 2023 internship opportunities~~ Future **Software Engineer Co-op** for **CognisantMD**.
+- ~~Looking for Summer 2023 internship opportunities~~ Future **Software Engineer Co-op** for **OceanMD**.
 
 ### 🔨 I previously worked as ...
 - **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
