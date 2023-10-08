@@ -33,7 +33,7 @@ I'm a **software** and **biomedical** engineering student at **McMaster** with a
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=adam-mak&label=Profile+Views&color=yellowgreen&style=flat-square&label=vistors)
+![](https://komarev.com/ghpvc/?username=adam-mak&label=Profile+Views&color=yellowgreen&style=flat-square)
 <!--
 **adam-mak/adam-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
