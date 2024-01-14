@@ -7,11 +7,12 @@
 <hr>
 
 ### 📚 About me
-I'm a **software** and **biomedical** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to quickly grow my skill set and make an impact to the work environment.
+I'm a **software** and **biomedical** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to quickly grow my skill set and make a difference in your product, platform, and tech stack.
 
 ### 🔭 Currently, I'm ...
+- **Software Engineer Co-op** for **OceanMD**.
 - Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems from Windows computers to be compatible with Android tablets.
-- ~~Looking for Summer 2023 internship opportunities~~ Future **Software Engineer Co-op** for **OceanMD**.
+- Looking for Summer 2024 internship opportunities!
 
 ### 🔨 I previously worked as ...
 - **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
