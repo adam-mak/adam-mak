@@ -10,14 +10,14 @@
 I'm a **software** and **biomedical** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to quickly grow my skill set and make a difference in your product, platform, and tech stack.
 
 ### 🔭 Currently, I'm ...
-- **Software Engineer Co-op** for **OceanMD**.
-- Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems from Windows computers to be compatible with Android tablets.
-- Looking for Summer 2024 internship opportunities!
+- 🌊 **Software Engineer Co-op** for **OceanMD**.
+- 🫀 Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems from Windows computers to be compatible with Android tablets.
+- 🔬 Looking for Summer 2024 internship opportunities!
 
 ### 🔨 I previously worked as ...
-- **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
-- **Teaching Assistant** at **McMaster University**, on discrete mathematics, shell scripting, and C basics to 2nd year students.
-- **Front End Developer Intern** at **Techrangle**, working on designing and adding functionality such as chatbots to their SaaS websites.
+- 🐺 **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
+- 📖 **Teaching Assistant** at **McMaster University**, on discrete mathematics, shell scripting, and C basics to 2nd year students.
+- 🤖 **Front End Developer Intern** at **Techrangle**, working on designing and adding functionality such as chatbots to their SaaS websites.
 
 ### 📫 How to reach me:
 <div>
