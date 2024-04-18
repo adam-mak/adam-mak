@@ -10,7 +10,7 @@
 I'm a **software** and **biomedical** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to quickly grow my skill set and make a difference in your product, platform, and tech stack.
 
 ### 🔭 Currently, I'm ...
-- <img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/>&nbsp;&nbsp;A **Software Engineer Co-op** for [**OceanMD**](https://www.oceanmd.com/).
+- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;A **Software Engineer Co-op** for [**OceanMD**](https://www.oceanmd.com/).
 - 🫀 Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems to Android tablets for flexible patient care.
 - 🔬 Looking for Summer 2024 internship opportunities!
 
