@@ -11,10 +11,10 @@ I'm a **software** and **biomedical** engineering student at **McMaster** with a
 
 ### 🔭 Currently, I'm ...
 - 🫀 Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems to Android tablets for flexible patient care.
-- 🔬 Looking for Summer 2024 internship opportunities!
+- 🔬 Looking for 2025 New Grad opportunities.
 
 ### 🔨 I previously worked as a ...
-- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;A **Software Engineer and Product Developer Co-op** for [**OceanMD**](https://www.oceanmd.com/).
+- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;**Software Engineer and Product Developer Co-op** for [**OceanMD**](https://www.oceanmd.com/).
 - 🐺 **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
 - 📖 **Teaching Assistant** at **McMaster University**, on discrete mathematics, shell scripting, and <i>C</i> to 2nd year students.
 - 🤖 **Front End Developer Intern** at **Techrangle**, designing and adding chatbots to their SaaS websites.
