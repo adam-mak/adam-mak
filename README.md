@@ -7,10 +7,10 @@
 <hr>
 
 ### 📚 About me
-I'm a **software** and **biomedical** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to quickly grow my skill set and make a difference in your product, platform, and tech stack.
+A graduating **biomedical** and **software** engineering student at **McMaster** with an affinity for human-centred design. I look forward to taking on as many opportunities to grow my skill set and make a difference in your product, platform, and tech stack.
 
 ### 🔭 Currently, I'm ...
-- 🫀 Working as an **Application Developer** at **HemoCath**, migrating existing data-monitoring systems to Android tablets for flexible patient care.
+- 🫀 A part-time **Application Developer** at **HemoCath**, migrating data-monitoring systems to Android tablets for flexible patient care.
 - 🔬 Looking for 2025 New Grad opportunities.
 
 ### 🔨 I previously worked as a ...
