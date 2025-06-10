@@ -2,7 +2,7 @@
 A graduating **biomedical** and **software** engineering student at **McMaster** with an affinity for human-centred design. I bring technical expertise and innovative thinking to elevate your product, platform, and tech stack. Ready to make an impact from day one.
 
 ### 🔭 Currently, I'm ...
-- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;Working full-time as a **Software Engineer and Product Developer** for [**OceanMD**](https://www.oceanmd.com/).
+- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="13"/></picture>&nbsp;&nbsp;Working full-time as a **Software Engineer and Product Developer** for [**OceanMD**](https://www.oceanmd.com/).
 - 🧠 An incoming MScAC (AIH) student at the [**University of Toronto**](https://mscac.utoronto.ca/).
 - 🎓 An iBioMed alumni (Class of 2025) at [**McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
 
