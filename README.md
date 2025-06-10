@@ -7,7 +7,7 @@ A **biomedical** and **software** engineer with an affinity for human-centred de
 - 🎓 An iBioMed alumni (Class of 2025) at [**McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
 
 ### 🔨 I previously worked as a ...
-- 🫀 Part-time **Application Developer** at [**HemoCath**](https://www.hemocath.com/), migrating data-monitoring systems to Android tablets for flexible patient care.
+- 🫀 **Application Developer** at [**HemoCath**](https://www.hemocath.com/), migrating data-monitoring systems to Android tablets for flexible patient care.
 - 🐺 **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
 - 📖 **Teaching Assistant** at [**McMaster University**](https://www.eng.mcmaster.ca/cas/), on discrete mathematics, shell scripting, and <i>C</i> to 2nd year students.
 
