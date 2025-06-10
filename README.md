@@ -4,12 +4,12 @@ A graduating **biomedical** and **software** engineering student at **McMaster**
 ### 🔭 Currently, I'm ...
 - <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;Working full-time as a **Software Engineer and Product Developer** for [**OceanMD**](https://www.oceanmd.com/).
 - 🧠 An incoming MScAC (AIH) student at the [**University of Toronto**](https://mscac.utoronto.ca/).
-- 🎓 An iBioMed alumni (Class of 2025) at **McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
+- 🎓 An iBioMed alumni (Class of 2025) at [**McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
 
 ### 🔨 I previously worked as a ...
 - 🫀 Part-time **Application Developer** at [**HemoCath**](https://www.hemocath.com/), migrating data-monitoring systems to Android tablets for flexible patient care.
 - 🐺 **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
-- 📖 **Teaching Assistant** at **McMaster University**, on discrete mathematics, shell scripting, and <i>C</i> to 2nd year students.
+- 📖 **Teaching Assistant** at [**McMaster University**](https://www.eng.mcmaster.ca/cas/), on discrete mathematics, shell scripting, and <i>C</i> to 2nd year students.
 
 ### 📫 How to reach me:
 <div>
