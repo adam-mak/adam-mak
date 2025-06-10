@@ -3,7 +3,7 @@ A graduating **biomedical** and **software** engineering student at **McMaster**
 
 ### 🔭 Currently, I'm a ...
 - <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="18"/></picture>&nbsp;&nbsp;**Software Engineer and Product Developer** for [**OceanMD**](https://www.oceanmd.com/).
-- Incoming student at [**UofT**](https://mscac.utoronto.ca/) for the MScAC program.
+- 🧠 Incoming student at [**UofT**](https://mscac.utoronto.ca/) for the MScAC program.
 
 ### 🔨 I previously worked as a ...
 - 🫀 Part-time **Application Developer** at **HemoCath**, migrating data-monitoring systems to Android tablets for flexible patient care.
