@@ -1,5 +1,5 @@
 ### 📚 About me
-A **biomedical** and **software** engineer with an affinity for human-centred design. I bring a blend of technical expertise and product-minded thinking to elevate your product, platform, and tech stack.
+A **biomedical** and **software** engineer with an affinity for human-centred design. I bring a blend of technical expertise and product-minded thinking to elevate your device, platform, and tech stack.
 
 ### 🔭 Currently, I'm ...
 - <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="13"/></picture>&nbsp;&nbsp;Working full-time as a **Software Engineer and Product Developer** for [**OceanMD**](https://www.oceanmd.com/).
