@@ -3,6 +3,7 @@ A **biomedical** and **software** engineer with an affinity for human-centred de
 
 ### 🔭 Currently, I'm ...
 - 🔬 A Computational Scientist Intern at Sanofi (Toronto AI CoE).
+- ✍️ Completing my Masters of Applied Computing at [**University of Toronto**](https://mscac.utoronto.ca/).
 - 🎓 An iBioMed alumni (Class of 2025) at [**McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
 
 ### 🔨 I previously worked as a ...
