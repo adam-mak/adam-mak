@@ -7,7 +7,7 @@ A **biomedical** and **software** engineer with an affinity for human-centred de
 - 🎓 An iBioMed alumni (Class of 2025) at [**McMaster University**](https://www.eng.mcmaster.ca/ibiomed/).
 
 ### 🔨 I previously worked as a ...
-- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="13"/></picture>&nbsp;&nbsp;A **Software Engineer** for [**OceanMD**](https://www.oceanmd.com/).
+- <picture><img src="https://github.com/adam-mak/adam-mak/assets/58651279/d4674da2-ee98-423d-bb59-edf9f74287d5" alt="OceanMD" width="13"/></picture>&nbsp;&nbsp;A **Software Developer** for [**OceanMD**](https://www.oceanmd.com/). Worked on improving the platform on all fronts, as well as their integration efforts with electronic record systems and government programs.
 - 🫀 **Application Developer** at [**HemoCath**](https://www.hemocath.com/), migrating data-monitoring systems to Android tablets for flexible patient care.
 - 🐺 **Software Engineer Co-op** at [**Arctic Wolf Networks**](https://arcticwolf.com/), improving their big data storage services and capabilities.
 - 📖 **Teaching Assistant** at [**McMaster University**](https://www.eng.mcmaster.ca/cas/), on discrete mathematics, shell scripting, and <i>C</i> to 2nd year students.
